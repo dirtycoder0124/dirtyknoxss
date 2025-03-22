@@ -4,8 +4,11 @@ DirtyKnoxss is a Bash script that automates Knoxss API calls to detect XSS vulne
 
 ## Features
 ✅ Parallel Execution - Scan multiple URLs simultaneously for faster results
+
 ✅ Error Handling - Displays errors and saves unfinished URLs if interrupted
+
 ✅ XSS Filtering - Only stores URLs where XSS is detected
+
 ✅ API Usage Tracking - Shows remaining API calls and reset time
 
 ## Installation
